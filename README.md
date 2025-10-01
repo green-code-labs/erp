@@ -1,9 +1,9 @@
 # PDV moderno v1.5 - Sistema de Ponto de Vendas e Gestão de Estoque (ERP)
 
-## Designed and Developed by Edson Langa
+## Desenhado e Desenvolvido por Edson Langa
 
-## langsberg@gmail.com
-## Contact +258847145687
+## edsonlangalanga11@gmail.com
+## Contacto +258847145687
 
 
-## Exclusively on Evanto DIMALANG
+## Exclusivamente por DIMALANG
