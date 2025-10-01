@@ -1,9 +1,9 @@
-# Modern POS v3.3 - Point of Sale with Stock Management System
+# PDV moderno v1.5 - Sistema de Ponto de Vendas e Gestão de Estoque (ERP)
 
-## Designed and Developed by ITSolution24.com
+## Designed and Developed by Edson Langa
 
-## itsolution24bd@gmail.com
-## Contact +8801737346122
+## langsberg@gmail.com
+## Contact +258847145687
 
 
-## Exclusively on Evanto Codecanyon
+## Exclusively on Evanto DIMALANG
